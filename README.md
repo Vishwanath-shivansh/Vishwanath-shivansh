@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Vishwanath shivansh
+-<hr color ="red">
 - 👀 I’m interested in making software 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on software development 
